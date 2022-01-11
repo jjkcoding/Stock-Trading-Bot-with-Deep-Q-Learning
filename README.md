@@ -34,7 +34,7 @@ Time Diff: 287.1830909252167
 
 ## Testing:
 * Continued with model from training, but used testing data
-* Example Output:
+* Example Output: \
 Total Profit: 11.099609375 \
 Total Reward: 0.0009725590234480766
 
