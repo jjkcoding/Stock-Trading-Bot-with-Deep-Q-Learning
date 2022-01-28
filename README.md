@@ -7,7 +7,7 @@
 * **Main Packages:** pandas, numpy, tensorflow, yfinance
 
 ## Preparing Data:
-* Collected Date and Time, Open, Close, High, Low, and Volume from yfinance hourly stock data
+* Collected Date and Time, Open, Close, High, Low, and Volume from yfinance hourly stock data of 60 days
 * Converted and dropped Date and Time into Hour, Month, and Year
 * Added a binary "Went Up" variable (1 = current closing price is higher than previous, 0 = current closing price is lower than previous)
 * Split data into 75% training data and 25% testing data
